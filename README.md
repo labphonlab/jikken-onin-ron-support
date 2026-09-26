@@ -1,7 +1,17 @@
 # 実験音韻論の方法 — Notebook
 
+[![Validate public package](https://github.com/labphonlab/jikken-onin-ron-support/actions/workflows/validate.yml/badge.svg)](https://github.com/labphonlab/jikken-onin-ron-support/actions/workflows/validate.yml)
+[![Release](https://img.shields.io/github/v/release/labphonlab/jikken-onin-ron-support)](https://github.com/labphonlab/jikken-onin-ron-support/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 書籍『実験音韻論の方法 ── 音韻理論をデータで検証する』
 （音声学ライブラリ 第4巻）に対応する R Notebook です。
+
+## 正本と刊行時固定版
+
+この公開リポジトリの **main** ブランチを、コードとNotebookの最新版を管理する正本とします。刊行時点の固定版は [v1.0.0 Release](https://github.com/labphonlab/jikken-onin-ron-support/releases/tag/v1.0.0) からZIPで取得できます。ReleaseにはSHA-256チェックサムも添付します。
+
+コード、Notebook、公開可能な合成データはMIT Licenseで公開します。参加者データ、第三者コーパス、再配布許可のない録音、購入者限定資料はこのリポジトリに含めません。購入者限定資料が必要な場合だけ、書籍に記載した別のパスワード付きZIPで提供します。
 
 ## 使い方
 
@@ -37,8 +47,7 @@ Google ドライブへのコピーも、ファイルの配置も要りません�
 
 ## 中身について
 
-各ノートブックは、本書のGitHubリポジトリ（`scripts/R/`）に収録されている
-実際のRスクリプトを**一字一句書き換えずに**そのまま埋め込んでいます。本文が
+各ノートブックは、書籍制作元の scripts/R に収録されている実際のRスクリプトを**一字一句書き換えずに**そのまま埋め込んでいます。公開用コードとNotebookは、このリポジトリを正本として版管理します。本文が
 報告している数値・効果量・図は、すべてこのコードを実際に実行して得られた
 ものであり、説明のための架空の例ではありません（架空データを使うシミュレー
 ションの場合も、その旨を各セルの直前に明記してあります）。

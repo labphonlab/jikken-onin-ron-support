@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "実験音韻論の方法 Notebook"
+message: "本教材を利用した場合は、対応する書籍とこのソフトウェアを引用してください。"
+type: software
+version: 1.0.0
+date-released: 2026-09-27
+authors:
+  - family-names: Ishihara
+    given-names: Takeshi
+license: MIT
+repository-code: "https://github.com/labphonlab/jikken-onin-ron-support"
+url: "https://github.com/labphonlab/jikken-onin-ron-support/releases/tag/v1.0.0"
