@@ -9,7 +9,7 @@
 
 ## 正本と刊行時固定版
 
-この公開リポジトリの **main** ブランチを、コードとNotebookの最新版を管理する正本とします。刊行時点の固定版は [v1.0.0 Release](https://github.com/labphonlab/jikken-onin-ron-support/releases/tag/v1.0.0) からZIPで取得できます。ReleaseにはSHA-256チェックサムも添付します。
+この公開リポジトリの **main** ブランチを、コードとNotebookの最新版を管理する正本とします。最新の版は [v1.0.1 Release](https://github.com/labphonlab/jikken-onin-ron-support/releases/tag/v1.0.1) です。刊行時点の固定版は [v1.0.0 Release](https://github.com/labphonlab/jikken-onin-ron-support/releases/tag/v1.0.0) からZIPで取得できます。ReleaseにはSHA-256チェックサムも添付します。
 
 コード、Notebook、公開可能な合成データはMIT Licenseで公開します。参加者データ、第三者コーパス、再配布許可のない録音、購入者限定資料はこのリポジトリに含めません。購入者限定資料が必要な場合だけ、書籍に記載した別のパスワード付きZIPで提供します。
 
