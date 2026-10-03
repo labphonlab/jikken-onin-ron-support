@@ -26,21 +26,21 @@ Google ドライブへのコピーも、ファイルの配置も要りません�
 | 章 | 開く |
 |---|---|
 | 全章統合版 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/00_all_in_one.ipynb) |
-| 第2章 良い研究課題とは何か | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch02.ipynb) |
+| 第2章 研究課題と仮説の設計 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch02.ipynb) |
 | 第3章 研究倫理とオープンサイエンス | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch03.ipynb) |
 | 第4章 音響分析の基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch04.ipynb) |
 | 第5章 Praatによる音響分析 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch05.ipynb) |
 | 第6章 分析の自動化 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch06.ipynb) |
 | 第7章 産出実験 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch07.ipynb) |
-| 第8章 知覚実験・刺激作成・PsychoPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch08.ipynb) |
-| 第9章 R入門 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch09.ipynb) |
+| 第8章 知覚実験——刺激作成とPsychoPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch08.ipynb) |
+| 第9章 Rによるデータ処理と可視化 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch09.ipynb) |
 | 第10章 統計的推論・回帰分析・混合効果モデル | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch10.ipynb) |
-| 第11章 範疇知覚とCue Weighting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch11.ipynb) |
+| 第11章 範疇知覚と手がかりの重みづけ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch11.ipynb) |
 | 第12章 韻律研究 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch12.ipynb) |
 | 第13章 音韻変異とコーパス音韻論 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch13.ipynb) |
-| 第14章 第二言語音韻研究 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch14.ipynb) |
-| 第15章 ベイズ統計・GAM・FDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch15.ipynb) |
-| 第16章 機械学習・深層学習・Foundation Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch16.ipynb) |
+| 第14章 音韻習得研究——第二言語を中心に | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch14.ipynb) |
+| 第15章 不確実性と曲線をモデル化する——ベイズ統計・GAM・FDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch15.ipynb) |
+| 第16章 機械学習・深層学習・自己教師あり音声モデル | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/jikken-onin-ron-support/blob/main/notebooks/ch16.ipynb) |
 
 第1章・第17章は、理論的な議論が中心でコード例を持たないため、対応する
 ノートブックはありません。
